@@ -2,6 +2,7 @@ name: bondnet document01
 favicon: null
 layout_spectrum: 0.8955077580176294
 typography_spectrum: 0.5995382971595973
+title: bondnet
 cta:
   domain: null
   bucket: null
