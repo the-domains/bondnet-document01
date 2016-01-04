@@ -1,7 +1,7 @@
 name: bondnet document01
 favicon: null
-layout_spectrum: 0.8955077580176294
-typography_spectrum: 0.5995382971595973
+layout_spectrum: 0.75304
+typography_spectrum: 0.25933
 title: bondnet
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5176718607544899
+    - '#bca887'
+    - '#c9c5b0'
+    - '#a89779'
+    - '#eae8a5'
+    - '#ded79a'
+  brandStrength: 0.5
   lightness: 0.5451845522038639
   saturation: 0.2417680525686592
   rhythmicContrast: 0.8371387245133519
