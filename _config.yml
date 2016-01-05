@@ -1,6 +1,6 @@
 name: bondnet document01
 favicon: null
-layout_spectrum: 0.49437
+layout_spectrum: 0.74812
 typography_spectrum: 0.38941
 title: bondnet
 cta:
@@ -22,7 +22,7 @@ color:
     - '#A89779'
     - '#EAE8A5'
     - '#DED79A'
-  brandStrength: 0.625
+  brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.4375
   rhythmicContrast: 0.25
