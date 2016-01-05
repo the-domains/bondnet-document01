@@ -1,5 +1,20 @@
+name: bondnet document01
+favicon: null
+layout_spectrum: 0.49437
+typography_spectrum: 0.38941
+title: bondnet
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-72020501-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#BCA887'
@@ -7,13 +22,8 @@ color:
     - '#A89779'
     - '#EAE8A5'
     - '#DED79A'
-  brandStrength: 0.757473
+  brandStrength: 0.625
   lightness: 0.5625
-  rhythmicContrast: 0.25
   saturation: 0.4375
-cta: {}
-layout_spectrum: 0.639946
-name: bondnet document01
-opengraph: {}
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.38941
