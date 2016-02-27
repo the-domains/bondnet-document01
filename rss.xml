@@ -4,7 +4,7 @@
         <description><![CDATA[bondnet]]></description>
         <link>http://philipbond.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 00:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 00:50:04 GMT</lastBuildDate>
         <atom:link href="http://philipbond.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -35,11 +35,11 @@
             <pubDate>Mon, 11 Jan 2016 00:24:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[inktober2015_16]]></title>
-            <description><![CDATA[<article><h1>inktober2015_16</h1><p>document01 start image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aaa7cd6b4089d211421baed96ea63f9a0a88799.png"></article>]]></description>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db2f12a2ae9cb471c4d7906ec0068fd725b4f5e9.png" alt="" title="">]]></description>
             <link>http://philipbond.net/11d6c8df-ce85-4c38-963d-0eceb41257ce/index.html</link>
             <guid isPermaLink="false">11d6c8df-ce85-4c38-963d-0eceb41257ce</guid>
-            <pubDate>Mon, 04 Jan 2016 20:04:21 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 00:48:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
